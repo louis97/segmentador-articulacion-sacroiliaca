@@ -13,6 +13,7 @@ dependencies = [
     "ipykernel",
     "nbformat",
     "nbconvert",
+    "scipy>=1.18.1",
 ]
 
 [build-system]
