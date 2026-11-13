@@ -1,0 +1,5 @@
+n,paciente,tipo,motivo,cortes_pista,n_evaluacion
+24,P_24,k2,menos de 2 cortes de evaluación (1),10 11,1
+24,P_24,k3,menos de 2 cortes de evaluación (0),9 10 11,0
+31,P_31,k2,menos de 2 cortes de evaluación (1),13 14,1
+31,P_31,k3,menos de 2 cortes de evaluación (0),12 13 14,0
